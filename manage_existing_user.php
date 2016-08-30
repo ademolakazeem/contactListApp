@@ -51,7 +51,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 	<div class="container">
 	<div class="col-md-4 content-pro-head content-pro-head3">
-			<h3>Contact</h3>
+			<h3>User Information</h3>
 			<p>There are several list of users in our database, you can update any of the users using the ID of any of the users. Without the use of ID, you will not be able to update user information.</p>
 		
     </div>
